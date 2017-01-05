@@ -53,7 +53,6 @@ public class RandomForCelebrait {
                  }
                  friends.add( line);
                  toFriends.add(line);
-                 System.out.println(line);
              }
             return   friends;
 
