@@ -1,22 +1,18 @@
-package slavik.sendbox.test.OrderInicialise;
+package slavik.sendbox.test.order_inicialise;
 
 /**
- * Created by Слава on 09.01.2017.
+ * Created by Слава on 10.01.2017.
  */
-public class InitialiseImp1 {
+public class InitialiseImpl2 {
     void checkA() {
         System.out.print("a=" + a + ", ");
     }
-
     {
         checkA();
-    }
-    int a = 1;
-    {
         System.out.print("a=" + a + ", ");
     }
-
+    int a = 1;
     public static void main(String[] args) {
-        new InitialiseImp1();
+        new InitialiseImpl2();
     }
 }
