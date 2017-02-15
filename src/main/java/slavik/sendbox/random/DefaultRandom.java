@@ -9,4 +9,8 @@ public class DefaultRandom {
         max -= min;
         return (int) (Math.random() * ++max) + min;
     }
+
+    public static int[] fillMassRandom(int mass[]){
+        return null;
+    }
 }
