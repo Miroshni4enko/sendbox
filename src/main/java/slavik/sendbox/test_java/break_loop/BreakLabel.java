@@ -1,4 +1,4 @@
-package slavik.sendbox.test.break_loop;
+package slavik.sendbox.test_java.break_loop;
 
 /**
  * Created by Слава on 08.01.2017.

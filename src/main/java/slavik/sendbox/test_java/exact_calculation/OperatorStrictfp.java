@@ -1,4 +1,4 @@
-package slavik.sendbox.test.exact_calculation;
+package slavik.sendbox.test_java.exact_calculation;
 
 /**
  * Created by Слава on 08.01.2017.

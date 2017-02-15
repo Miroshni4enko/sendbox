@@ -1,4 +1,4 @@
-package slavik.sendbox.test.pack_private;
+package slavik.sendbox.test_java.pack_private;
 
 import java.util.ArrayList;
 import java.util.List;

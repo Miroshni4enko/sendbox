@@ -1,4 +1,4 @@
-package slavik.sendbox.stack;
+package slavik.sendbox.pr_algorithms_SSU.pr1.stack;
 
 /**
  * Created by vymi1016 on 02/15/2017.
@@ -9,6 +9,7 @@ public class Stack {
 
     public Stack(int size) {
         stackInfo = new int[size];
+
     }
     public void push(int element){
         stackInfo[++topNumber] = element;

@@ -1,4 +1,4 @@
-package slavik.sendbox.test.protected_Class;
+package slavik.sendbox.test_java.protected_Class;
 
 /**
  * Created by vymi1016 on 12/23/2016.

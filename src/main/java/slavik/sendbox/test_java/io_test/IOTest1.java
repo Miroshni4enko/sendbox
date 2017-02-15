@@ -1,4 +1,4 @@
-package slavik.sendbox.test.io_test;
+package slavik.sendbox.test_java.io_test;
 
 /**
  * Created by Слава on 08.01.2017.
