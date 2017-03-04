@@ -21,7 +21,7 @@ public class Pair<T1,T2> {
         return value;
     }
 
-    public boolean isDeleted() {
+    /*public boolean isDeleted() {
         return deleted;
     }
 
@@ -32,5 +32,5 @@ public class Pair<T1,T2> {
         }else{
             return false;
         }
-    }
+    }*/
 }
