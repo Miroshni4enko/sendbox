@@ -1,0 +1,5 @@
+jmap -dump:format=b,file=heap.hprof
+-XX:+HeapDumpOnOutOfMemoryError
+-XX:HeapDumpPath=./java_pid<pid>.prof
+
+For analyze use only : MAT
