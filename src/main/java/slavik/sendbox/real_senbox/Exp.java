@@ -8,13 +8,13 @@ import java.io.IOException;
  */
 public class Exp {
     public static void main(String[] args) {
-        Main main = null;
+        /*Main main = null;
 
         try{
             main.toString();
         }catch (Exception e){
            if(true) throw new AWTError("bum");
-        }
+        }*/
     }
 
 }
