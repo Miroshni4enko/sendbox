@@ -11,11 +11,13 @@ import java.util.concurrent.LinkedBlockingQueue;
 public class RandomForCelebrait {
     private List<String> friends = new ArrayList<>();
     private List<String> toFriends = new ArrayList<String>();;
+
     public static void main(String[] args) {
         RandomForCelebrait randomForCelebrait = new RandomForCelebrait();
         randomForCelebrait.readBuffer();
         randomForCelebrait.random();
     }
+
     public void random() {
         // перемешиваем
         Collections.shuffle(toFriends);
