@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file:///C:/Workspace/knoweldge_test/generateXSDschemaForJAXB.xsd">
+	<person id="100">
+		<name>Slavik</name>
+	</person>
+	<person id="101">
+		<name>Slavik1</name>
+	</person>
+	<person id="102">
+		<name>Slavik2</name>
+	</person>
+</people>
